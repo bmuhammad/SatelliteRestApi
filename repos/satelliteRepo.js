@@ -13,13 +13,13 @@ let satelliteRepo = {
           type: "Earth Observation",
           description:
             "Also known as Earth remote sensing satellites, these satellites are used for environmental monitoring, meteorology, mapping, and other applications",
-          imageUrl: "images/earthObservation.jpg"
+          imageUrl: "../images/earthObservation.jpg"
           },
         {
           id: 3,
           type: "Astronomical",
           description: "Used to monitor and image space",
-          imageUrl : "images/astronomical.jpg"
+          imageUrl : "../images/astronomical.jpg"
         },
       ];
     },
